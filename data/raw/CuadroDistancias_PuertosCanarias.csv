@@ -1,7 +1,8 @@
-port_name,port_name,distanceLP_nauticalmiles
+port_name,port_name_full,distanceLP_nauticalmiles
 ARRECIFE,Arrecife,113
 LA PALMA,Santa Cruz de La Palma,143
 LA GOMERA,San Sebastian de La Gomera,107
 LA ESTACA,Puerto de La Estaca,148
 TENERIFE,Santa Cruz de Tenerife,58
 PUERTO DEL ROSARIO,Puerto del Rosario,105
+LAS PALMAS,Las Palmas de Gran Canaria,0
