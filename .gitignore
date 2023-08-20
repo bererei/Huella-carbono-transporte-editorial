@@ -161,7 +161,7 @@ conf/local/**
 # ignore potentially sensitive credentials files
 config/**/*credentials*
 config/**/*secret*
-secret*.*
+*secret*.*
 mysecrets*.*
 
 # ignore everything in the following folders

@@ -43,7 +43,7 @@ Se van a seguir diferentes metodologías según el trayecto y tipo de transporte
         - Se hará utilizando las categorías de valores indicadas en el apartado 5.4 (AENOR2013).
     2. Cálculo del consumo total d energía y de emisiones de GEI para este VOS
         (AENOR2013)
-        - ![Alt text](/img//img/image-19.png)
+        - ![Alt text](/img/image-19.png)
         - ![Alt text](/img/image-20.png)
 
         (Schmied2012)
@@ -103,44 +103,10 @@ Truck/Lorry (defaults)
 - Specific energy consumption. Consumo energético específico.
     - (Schmied2012)
         - ![Alt text](/img/image-6.png)
-- Consumo energético y emisión de
-    - (EcoTransITWorld2023, pg. 63)
-        - ![Alt text](/img/image-7.png)
 
 
 #### SUPOSICIONES Y DATOS DEL TRANSPORTE POR MAR
-**Demanda de energía**
-- (EcoTransITWorld2023)
-    - ETW calcula la 'power demand' en base a IMO2021: main engine, auxiliary engine y boiler.
-    - ![Alt text](/img/image-8.png)
-    - ![Alt text](/img/image-9.png)
-    - ![Alt text](/img/image-10.png)
-    - ![Alt text](/img/image-11.png)
-    - ![Alt text](/img/image-12.png)
-
-**Ajuste por la velocidad**
-- (EcoTransITWorld2023)
-    - ![Alt text](/img/image-13.png)
-
-**Ajuste por la carga**
-- (EcoTransITWorld2023)
-    - ![Alt text](/img/image-14.png)
-
-**Valores por defecto**
-- (EcoTransITWorld2023)
-    - ![Alt text](/img/image-15.png)
-
-**Consumo energético específico**
-- (Schmied2012)
-    - ![Alt text](/img/image-16.png)
-
-**Tipos de barcos**
-- (EcoTransITWorld2023)
-    - ![Alt text](/img/image-18.png)
-    - ![Alt text](/img/image-17.png)
-
 **Metodología de Clean Cargo**
-Creo que lo voy a hacer de esta manera.
 - (CCWG2015)
 - (CleanCargo2021)
     - ![Alt text](/img/image-24.png)
