@@ -43,16 +43,16 @@ Se van a seguir diferentes metodologías según el trayecto y tipo de transporte
         - Se hará utilizando las categorías de valores indicadas en el apartado 5.4 (AENOR2013).
     2. Cálculo del consumo total d energía y de emisiones de GEI para este VOS
         (AENOR2013)
-        - ![Alt text](image-19.png)
-        - ![Alt text](image-20.png)
+        - ![Alt text](/img//img/image-19.png)
+        - ![Alt text](/img/image-20.png)
 
         (Schmied2012)
-        - ![Alt text](image-21.png)
-        - ![Alt text](image-22.png)
+        - ![Alt text](/img/image-21.png)
+        - ![Alt text](/img/image-22.png)
 
         Conversión del consumo total de combustible para el VOS en cantidades de consumo de E y en emisiones de GEI. Fórmulas:
-        - ![Alt text](image.png)
-        - ![Alt text](image-1.png)
+        - ![Alt text](/img/image.png)
+        - ![Alt text](/img/image-1.png)
 
         VOS - Sistema de Operación de un Vehículo. Conjunto de operaciones de un vehículo.
 
@@ -63,8 +63,8 @@ Se van a seguir diferentes metodologías según el trayecto y tipo de transporte
         - WTT. Fuente a depósito. Evaluación relativa a los procesos energéticos.
         - TTW. Depósito a ruedas. Consumo de energía y emisiones de depósito a ruedas (Et, Gt).
     3. Asignación de este trayecto a una porción del consumo total de energía y de emisiones 
-        - ![Alt text](image-2.png)
-        - ![Alt text](image-3.png)
+        - ![Alt text](/img/image-2.png)
+        - ![Alt text](/img/image-3.png)
 
 2. **De puerto de carga a puerto de descarga**
     0. Clean Cargo Working Group
@@ -76,7 +76,7 @@ Se van a seguir diferentes metodologías según el trayecto y tipo de transporte
 
 #### DATOS GENERALES
 (Schmied2012). EN 16258 Distance-based approach.
-- ![Alt text](image-4.png)
+- ![Alt text](/img/image-4.png)
 
 
 #### SUPOSICIONES QUE TOMÉ DE ECOTRANSIT WORLD
@@ -99,52 +99,52 @@ Truck/Lorry (defaults)
 - Medio de transporte (tipo de camión). EcoTransITWorld2023, pg. 60 indica que en EU 28 (without SE) el transporte por defecto es Truck > 26-40t. Yo voy a tomar un camión de 12-20 tonnes.
 - Combustible. Diesel. No biofuel.
 - Capacidad de carga de los camiones y factores de corrección carreteras urbanas:
-    - ![Alt text](image-5.png)
+    - ![Alt text](/img/image-5.png)
 - Specific energy consumption. Consumo energético específico.
     - (Schmied2012)
-        - ![Alt text](image-6.png)
+        - ![Alt text](/img/image-6.png)
 - Consumo energético y emisión de
     - (EcoTransITWorld2023, pg. 63)
-        - ![Alt text](image-7.png)
+        - ![Alt text](/img/image-7.png)
 
 
 #### SUPOSICIONES Y DATOS DEL TRANSPORTE POR MAR
 **Demanda de energía**
 - (EcoTransITWorld2023)
     - ETW calcula la 'power demand' en base a IMO2021: main engine, auxiliary engine y boiler.
-    - ![Alt text](image-8.png)
-    - ![Alt text](image-9.png)
-    - ![Alt text](image-10.png)
-    - ![Alt text](image-11.png)
-    - ![Alt text](image-12.png)
+    - ![Alt text](/img/image-8.png)
+    - ![Alt text](/img/image-9.png)
+    - ![Alt text](/img/image-10.png)
+    - ![Alt text](/img/image-11.png)
+    - ![Alt text](/img/image-12.png)
 
 **Ajuste por la velocidad**
 - (EcoTransITWorld2023)
-    - ![Alt text](image-13.png)
+    - ![Alt text](/img/image-13.png)
 
 **Ajuste por la carga**
 - (EcoTransITWorld2023)
-    - ![Alt text](image-14.png)
+    - ![Alt text](/img/image-14.png)
 
 **Valores por defecto**
 - (EcoTransITWorld2023)
-    - ![Alt text](image-15.png)
+    - ![Alt text](/img/image-15.png)
 
 **Consumo energético específico**
 - (Schmied2012)
-    - ![Alt text](image-16.png)
+    - ![Alt text](/img/image-16.png)
 
 **Tipos de barcos**
 - (EcoTransITWorld2023)
-    - ![Alt text](image-18.png)
-    - ![Alt text](image-17.png)
+    - ![Alt text](/img/image-18.png)
+    - ![Alt text](/img/image-17.png)
 
 **Metodología de Clean Cargo**
 Creo que lo voy a hacer de esta manera.
 - (CCWG2015)
 - (CleanCargo2021)
-    - ![Alt text](image-24.png)
-    - ![Alt text](image-23.png) 
+    - ![Alt text](/img/image-24.png)
+    - ![Alt text](/img/image-23.png) 
 
 
 
