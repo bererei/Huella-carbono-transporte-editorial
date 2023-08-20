@@ -11,7 +11,6 @@ google-auth-oauthlib = "*"
 unidecode = "*"
 matplotlib = "*"
 folium = "*"
-geopandas = "*"
 
 [dev-packages]
 ipykernel = "*"
