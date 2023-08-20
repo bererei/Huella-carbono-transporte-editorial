@@ -106,7 +106,7 @@ Truck/Lorry (defaults)
 
 
 #### SUPOSICIONES Y DATOS DEL TRANSPORTE POR MAR
-**Metodología de Clean Cargo**
+V**Metodología de Clean Cargo**
 - (CCWG2015)
 - (CleanCargo2021)
     - ![Alt text](/img/image-24.png)
