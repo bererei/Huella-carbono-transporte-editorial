@@ -5,12 +5,11 @@ Disclaimer: Este trabajo está apoyado en metodologías publicadas y ampliamente
 ## Etapa 1: identificación de los diferentes trayectos de este servicio de transporte
 Las coordenadas y las distancias han sido obtenidas de:
 - spain-cities: 
-    - https://gist.github.com/jhernandez-stratio 
-	- https://gist.githubusercontent.com/jhernandez-stratio/c75d9bb4621a58084d0e92c2c1b443f1/raw/e7307052a63af305b2179352752d57fd63267b1f/spain-cities 
+    - https://gist.github.com/jhernandez-stratio/dd6159c04f14a5078681e369dcd8aea6
 
-- Cuadros Distancias Puertos (distancias interportuarias).
+- Cuadros Distancias Puertos (distancias interportuarias):
     - CuadroDistancias_PuertosPeninsula (Península) (https://www.puertos.es/Documents/Cuadro%20distancias.pdf)
-    - CuadroDistancias_PuerosCanarias (Islas Canarias) (https://armada.defensa.gob.es/ihm/Aplicaciones/Distancia/Index_Distancia_xml.htm)
+    - CuadroDistancias_PuertosCanarias (Islas Canarias) (https://armada.defensa.gob.es/ihm/Aplicaciones/Distancia/Index_Distancia_xml.htm)
 - CoordenadasPuertos (www.marinetraffic.com)
 
 Ruta A - Península y Canarias:
@@ -23,7 +22,8 @@ Ruta B - Gran Canaria:
 
 
 ## Etapa 2: cálculo de las emisiones de CO2 equivalentes de cada trayecto
-### Subetapa 2.1: establecimiento del sistema de operación los vehículos para cada trayecto
+
+### Subetapa 2.1: establecimiento del sistema de operación de los vehículos para cada trayecto
  Como un requisito mínimo el VOS se refiere al conjunto coherente de operaciones de vehículo relativas al trayecto que se está calculando.
  
  Cuando se establezca el VOS, se deben tener en consideración los factores que afectan a la escala y composición del VOS, tales como:
